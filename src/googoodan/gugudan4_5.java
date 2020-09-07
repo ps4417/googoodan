@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class gugudan4_5 {
 
 	public static void main(String[] args) {
-		System.out.println("±¸±¸´Ü Áß Ãâ·ÂÇÒ ´ÜÀº? : ");
+		System.out.println("êµ¬êµ¬ë‹¨ ì¤‘ ì¶œë ¥í•  ë‹¨ì€? : ");
 		Scanner sc = new Scanner(System.in);
 		int number = sc.nextInt();
 		System.out.println("number : "+number);
